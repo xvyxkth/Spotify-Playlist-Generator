@@ -1,6 +1,6 @@
 # Spotify-Playlist-Generator
 
-Moodify is a web application that generates personalized Spotify playlists based on your current mood. Just input a few songs that match your vibe, and Moodify will create a playlist on your Spotify account filled with tracks that sound similar using a collaborative filtering-based recommendation system.
+This is a web application that generates personalized Spotify playlists based on your current mood. Just input a few songs that match your vibe, and Moodify will create a playlist on your Spotify account filled with tracks that sound similar using a collaborative filtering-based recommendation system.
 
 🚀 Features: 
 
